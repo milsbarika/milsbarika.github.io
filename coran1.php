@@ -1,39 +1,3 @@
-<?php
-
-require_once 'Cnn_Coran.php';
-?>
-
-<?php
-			$rech2="NULL";	 
-																
-		 if(!empty($_POST['rech2'])){
-		   $rech2=trim($_POST['rech2']);
-/* 		   echo "<span style='font-family: Simplified Arabic Fixed;'>".$rech2."</span>";
- */
-				}else{
-}
-		 $sql = "SELECT * FROM corannet2 WHERE TextSora LIKE '%$rech2%'ORDER BY Id";        
- 		 $rs3=$bdd->prepare($sql);
-		 $rs3->execute() or die($rs3->errorInfo());
-		
-?>
-<?php
-
-		$rech1="NULL";
-		$numero="NULL";
-	 if(!empty($_POST['rech1'])&& !empty($_POST['numero'])){
-		$rech1=$_POST['rech1'];
-		$numero=$_POST['numero'];
-		
-
-				}else{
-			
-			}	
-	    $sql2 = "SELECT * FROM corannet2 WHERE NoSora= $numero AND TextSora LIKE '%$rech1%'ORDER BY Id";			   			                
-		$rs4 = $bdd->prepare($sql2);
-		$rs4->execute(); 
-		 
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
