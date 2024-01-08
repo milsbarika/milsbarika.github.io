@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+
+  <html>
+		<head>
+			<title>صفحة المراسلة</title>
+			<meta charset="UTF-8">
+            <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<link rel="stylesheet" href="css/bootstrap.min.css">
+
+		   <style type="text/css">	  
+#chat{
+	  margin:0 auto;
+	  padding:5px;
+	  width:380px;
+	
+	  background-color:#eefeee;
+	  border-radius:5px;
+	 margin-bottom:10px;
+	  -moz-border-radius:1em;
+	  font-family:arial;
+	  color:#000;
+}
+
+
+form{
+     margin:auto;
+    }
+form *{
+	  font-family:'arial';
+	  font-size:0.9em;
+	}
+form input, form textarea{
+						resize:none;
+						display:block;
+						width:258px;
+						margin:5px auto;
+						padding:0;
+						border:1px solid #0f0;
+						}	  
+
+    
+.afficher {
+	 
+	    overflow: auto;
+		word-wrap: break-word;
+        width: 380px;
+        height: 520px;
+       font-size: 12px;
+        background:#effe99;
+        padding: 2px;
+        margin: auto;	
+         
+      }
+
+ .afficher p{
+	      text-align:right;
+          color: #000; 
+          font-size: 12px;
+          background-color: #cafaa0;
+          padding: 2px;
+          margin: auto;	
+          border:1px solid #ff0;
+		  border-radius:3px;
+      }
+  body{
+		background : #ff0 url(images3/img1.jpg) repeat;
+	  }
+
+ .button {
+  float:right;
+		width: 90px;
+		background-color: #a9f;
+		border: none;
+		color: black;
+		text-shadow: 1px 1px 2px red, 0 0 25px red, 0 0 5px Blue;
+		box-shadow: 3px 3px 2px grey;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 12px;
+		
+		cursor: pointer;
+	
+         }
+		 
+ .button5 {
+	       border-radius: 10%;
+		 
+
+          }
+		  
+#chat button:hover{
+                  background:#f0F000;
+			
+                  }	
+    </style>		
+			
+		</head>
+ <body>
+
+
+	<div id="chat">
+								  												
+			     			    
+				 
+				 <form method="post" class="formulaire">
+				       						<a href="index.html" style="width: 90px;border-radius: 10%;color:#ff0;font-weight:bold;font-size: 10px;" class="btn btn-danger btn-xs" role="button">عودة للقائمة</a>
+
+					
+							<button  type="submit" class="button button5">Envoyer..ارسل</button> 																															
+						
+							<input type="text" placeholder="votre login الاسم او الكنية" class="titre">
+							<textarea  placeholder="votre message رسالتك" class="contenu" ></textarea>					
+							
+		
+							<div class="return"></div>
+				</form>
+				
+				<div class="afficher"></div>				
+		
+	</div>
+			<script src="js/jquery.min.js"></script>
+			<script src="TX_script1.js"></script>														             
+	</body>
+		
+</html>
+  <!-- 
+#listemessages{
+			  list-style-type:none;
+			  padding:0;
+			  margin:0 auto;
+			  width:200px;
+			  font-size:0.9em;
+			}
+#listemessages .pseudo{
+  font-weight:bold;
+}
+#listemessages .date{
+  font-size:0.9em;
+}
+#listemessages p{
+  margin:0;
+  margin-bottom:5px;
+  padding:0;
+}
+
+
+
+
+
+
+
+
+
+  bon pour écrire en arabe avec notepad++ il faut que tu changes l'encodage, donc tu fais Format> Encoder en UTF-8. et tu ajoutes dir="rtl"
+ qui veut dire "right to left" (de droite à gauche) a la balise html ensuite dans la balise meta tu dois écrire content="text/html; charset=utf-8".
+Tu devrais avoir un truc qui ressemble a ça:
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="rtl" xmlns="http://www.w3.org/1999/xhtml">  -->
