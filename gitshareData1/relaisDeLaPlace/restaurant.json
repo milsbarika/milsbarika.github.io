@@ -1,0 +1,17 @@
+
+{
+	"title": "Le Relais",
+	"description": "cuisine italienne",
+	"address": "Place d'Alleray, Paris 75015",
+	"telephone": "0600000002",
+	"image": "https://onvaessayer.github.io/gitshareData1/relaisDeLaPlace/image.jpg",
+	"items": [
+		"Pizza Roma 13.5",
+		"Tagliatelle 12.5",
+		"Burrata 6.5",
+		"Pizza Margherita 10",
+		"Pizza burrata 10.25",
+		"Chianti 23"
+	]
+}
+

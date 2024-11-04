@@ -1,0 +1,8 @@
+{
+	"title": "Dominos_Pizza",
+	"description": "Pizzeria",
+	"address": "rue Parmentier, 75011 Paris",
+    "telephone": "0600000002",
+	"image": "https://onvaessayer.github.io/gitshareData1/DominosPizza/image.jpg",
+	"items": ["pizza basique 8.60", "pizza super Veggie 10.25"]
+}

@@ -1,0 +1,15 @@
+{
+	"title": "Le Roma",
+	"description": "Pizzeria et plats Italiens",
+	"address": "61 avenue du Maine, 75014 Paris",
+	"image": "https://onvaessayer.github.io/gitshareData1/RistoranteRoma/image.jpg",
+    "telephone": "0600000004",
+    "email":"ristoranteRoma@paris.fr",
+	"items": [
+		"pizza Margherita 8.40",	
+		"tagliatelles carbonara 7.90",
+		"Chianti 13.5"
+	]
+}
+
+

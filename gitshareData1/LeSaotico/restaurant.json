@@ -1,0 +1,11 @@
+{
+	"title": "Le Saotico",
+	"description": "Cuisine du marché<br>96 Rue de Richelieu",
+	"address": "96 Rue de Richelieu, 75002 Paris",
+    "telephone": "0631252247",
+	"image": "https://onvaessayer.github.io/gitshareData1/LeSaotico/image.jpg",
+	"items": [
+		"bruchetta et salade 11.5",
+		"formule plat+dessert 13.5"
+	]
+}

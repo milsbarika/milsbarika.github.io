@@ -1,0 +1,10 @@
+{
+	"title": "Indiana Cafe",
+	"description": "Restaurant américain",
+	"address": "74 Avenue de France - 75013 Paris",
+	"telephone": "0600000003",
+    "email":"indianaCafe@paris.fr",
+	"image": "https://onvaessayer.github.io/gitshareData1/IndianaCafe/image.jpg",
+	"items": ["American burger : 12.5","veggie Salad 11.5","Bordeaux Haut de Lerm 23"]
+}
+
