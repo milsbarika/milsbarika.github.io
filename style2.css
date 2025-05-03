@@ -1,0 +1,147 @@
+/********************************************************/
+/* Feuille de style Affichage Divs.  www.progvbjlr.net  */
+/********************************************************/
+
+
+body {
+		margin: 0;
+		padding: 0;
+		color: #000080;
+		background-color: #B5F6F6;
+		font-family : Verdana, Arial, Helvetica, sans-serif;
+		font-size: xxsmall;
+		text-align: center;
+}
+html, body, #wrap {
+		height: 100%;
+}
+body > #wrap {
+		height: auto; 
+		min-height: 100%;
+}
+.textebleu2{
+		font-size: 14px;
+		color: #0000FF;
+}
+.textevert2{
+		font-size: 14px;
+		color: #006400;
+}
+.texteverts2{
+		font-size: 16px;
+		color: #006400;
+		text-decoration: underline;
+}
+.textevertc{
+		font-size: 12px;
+		color: #006400;
+		text-align: center;
+}
+.texterouge{
+		font-size: 16px;
+		color: #FF0000;
+		text-align: center;
+}
+/*********** #contenu ****top*******/ 
+
+.bantitreout a{
+	text-decoration: none;
+margin-top:10px;
+font-size:23px;
+	 padding:auto;
+	 width: 80px;
+	 height: 28px;
+	 border-radius: 0px;
+	 border: 4px solid #a99;
+	 		border: 12px inset #9ACD32;
+		padding: 0px 0px 0px 0px;
+		visibility: visible;
+ 	 box-shadow: 3px 3px 5px #000;
+	background-color: #ff0;
+
+}
+.bantitreout a:hover{
+	text-decoration: none;
+	background-color: #0f0; 
+	opacity:1;
+	visibility:visible;
+}
+.bantitreout a:active{
+	text-decoration: none;
+	background: #fff;
+ 	color:#f00;
+} 
+.menudvert{
+		position: absolute;
+		left: 50px;
+		top: 150px;
+        float:left;
+        margin: 15px 0 0 0;
+        width: 220px;
+		height: 180px;
+        visibility: visible;
+}
+.footrub {
+		position: absolute;
+		bottom: 0;
+		left: 19px;
+		width: 722px;
+		height: 70px;
+		margin: 0;
+		padding: 0;
+}
+#contim1 {
+		position: absolute;
+		left: 1055px;
+		top: 180px;
+		width: 220px;
+		height: 280px;
+}
+#contim2 {
+		position: absolute;
+		left: 1070px;
+		top: 560px;
+		width: 220px;
+		height: 280px;
+}
+#main {
+		overflow:auto;
+		padding-bottom: 70px;  /* MÊME TAILLE QUE LA HAUTEUR DU FOOTER !! */
+}  
+ 
+#footer {
+		position: relative;
+		margin-top: -70px; /* VALEUR NEGATIVE DE LA HAUTEUR DU FOOTER */
+		height: 70px;
+		clear: both;
+}
+#container {
+		position: absolute;
+		left: 300px;
+		top: 150px;		
+		background-color: #BBC79D;
+		border-left: 1px solid #000000;
+		border-right: 1px solid #000000;
+		text-align: left;
+		margin: 0;
+		padding: 0;
+		width: 760px;
+}
+#page2 {
+		border-left: 12px solid #A5E085;
+		border-right: 12px solid #A5E085;
+		text-align: left;
+		background-color: #FFFFFF;
+		margin: 0px 7px 0px 7px;
+		padding: 10px 35px 0px 35px;
+		width: auto;
+}
+
+
+
+
+
+
+
+
+
