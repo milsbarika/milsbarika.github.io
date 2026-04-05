@@ -1,0 +1,22 @@
+[
+	{
+		"title":"Coluche",
+		"image":"Coluche.jpg",
+		"audio":"Coluche.mp3"
+ 	},
+	{
+		"title":"moi",
+		"image":"moi.jpg",
+		"audio":"moi.mp3"
+ 	},
+	{
+		"title":"Martin Luther King",
+		"image":"King.jpg",
+		"audio":"King.mp3"
+ 	},
+	{
+		"title":"Malcolm X",
+		"image":"MalcolmX.jpg",
+		"audio":"MalcolmX.mp3"
+ 	}
+]
