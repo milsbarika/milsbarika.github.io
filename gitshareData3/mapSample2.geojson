@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Songsan",
+        "description": "songSan/restaurant.json",
+        "image": "icons/korean.png",
+        "infobox": "true",
+        "draggable": "false"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29935,
+          48.836747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "icons/le relais",
+        "description": "relaisDeLaPlace/restaurant.json",
+        "image": "restaurant32dp.png",
+        "fill": "#0000FF",
+        "infobox": true,
+        "draggable": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.306638,
+          48.836606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ristorante Roma",
+        "description": "RistoranteRoma/restaurant.json",
+        "image": "icons/pizza.png",
+        "infobox": true,
+        "draggable": false,
+        "fill": "#ffa500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3223007,
+          48.839529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Indiana Cafe",
+        "description": "IndianaCafe/restaurant.json",
+        "image": "icons/hamburger.png",
+        "infobox": true,
+        "draggable": false,
+        "fill": "#FFFF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3643052,
+          48.8268811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Le Saotico",
+        "description": "LeSaotico/restaurant.json",
+        "image": "icons/frenchFood.png",
+        "infobox": true,
+        "draggable": false,
+        "fill": "#008000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3394846,
+          48.870623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dominos Pizza",
+        "description": "DominosPizza/restaurant.json",
+        "image": "icons/pizza.png",
+        "infobox": true,
+        "draggable": false,
+        "fill": "#000080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3727438,
+          48.8678975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Momoka",
+        "description": "momoka/restaurant.json",
+        "image": "icons/sushi.png",
+        "infobox": true,
+        "draggable": false,
+        "fill": "#800000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3334827,
+          48.8791916
+        ]
+      }
+    }
+  ]
+}

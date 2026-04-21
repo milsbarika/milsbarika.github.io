@@ -1,0 +1,23 @@
+{
+	"title": "Momoka",
+	"description": "Restaurant Japonais",
+	"address": "rue jean baptiste Pigalle, 75009 Paris",
+	"telephone": "0600000005",
+	"image": "image.jpg",
+	"date":"2018 06 30",
+	"items": [
+		{
+			"name": "SAKURAKO, menu unique",
+			"price": 39,
+			"ingredients":["Assortiment de salades","assortiment de sashimi","plat de poulet","riz"],
+			"image":"sakurako.PNG"
+		},
+		{
+			"name": "MOMOKA, menu unique",
+			"price": 49,
+			"ingredients":["Assortiment de salades","assortiment de sashimi",
+			"assortiment de viandes","maki"," dessert"],
+			"image":"momoka.PNG"
+		}
+	]
+}

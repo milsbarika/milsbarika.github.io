@@ -1,0 +1,14 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "le relais",
+        "description": "relaisDeLaPlace/restaurant.json",
+        "image": "http://onvaessayer.org/appinventor/apps/gitshare/resources/icons/hamburger.png"
+      },
+      "geometry": {"type": "Point","coordinates": [2.306638,48.836606]}
+    }
+  ]
+}

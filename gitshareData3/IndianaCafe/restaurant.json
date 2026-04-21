@@ -1,0 +1,24 @@
+{
+	"title": "Indiana Cafe",
+	"description": "Restaurant américain",
+	"address": "rue de Tolbiac, 75013 Paris",
+	"telephone": "0600000003",
+    "email":"indianaCafe@paris.fr",
+	"image": "image.jpg",
+	"items": [
+	  {	"name": "American burger","price": 12.5,
+		"ingredients": ["Bun’s", "steak haché grillé", "sauce burger", "tomate", "oignons", "cornichons"],
+		"image": "hamburger.PNG"
+	  },
+	  { "name": "veggie Salad","price": 11.5,
+		"ingredients": [ "Quinoa","choux rouge", "courgette","aubergine",
+		                 "carotte","brocolis","avocat", "grenade", "radis"],
+		"image": "veggieSalad.jpg"
+	  },
+	  {	"name": "Bordeaux, Château Haut de Lerm","price": 23,
+		"ingredients":["raisin","alcool"],
+		"image":"bordeauxGR.jpg"
+	  }
+	]
+}
+

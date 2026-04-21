@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Songsan",
+        "description": "songSan/restaurant.json",
+        "fill": "#FFFF00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29935,
+          48.836747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "le relais",
+        "description": "relaisDeLaPlace/restaurant.json",
+        "fill": "#0000FF",
+        "image": "pizza.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.306638,
+          48.836606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Indiana Cafe",
+        "description": "IndianaCafe/restaurant.json",
+        "image": "icons/hamburger.png",
+        "fill": "#ffa500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3223007,
+          48.839529
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+
+{
+	"title": "SongSan",
+	"description": "Restaurant Coréen",
+	"address": "rue Marmontel",
+	"telephone": "0600000005",
+    "image": "image.jpg",
+	"items": [
+		{
+			"name": "Dolsot poulet",
+			"price": 12,
+			"description" :"",
+			"ingredients":["poulet","carottes","soja"],
+			"image":"dolsotPoulet.PNG"
+		},
+		{
+			"name": "Boulgogi",
+			"price": 18,
+			"description"  : "émincé de boeuf sauce soja",
+			"ingredients":["boeuf","soja"],
+			"image":"boulgogi.PNG"
+		},
+		{
+			"name": "Boulgogi poulet",
+			"price": 18,
+			"description"  : "blanc de poulet, sauce soja",
+			"ingredients":["poulet","soja"],
+			"image":"boulgogiPoulet.PNG"
+		}
+	]
+}
+

@@ -1,0 +1,23 @@
+{
+	"title": "Le Saotico",
+	"description": "Cuisine du marché<br>96 Rue de Richelieu",
+	"address": "96 Rue de Richelieu, 75002 Paris",
+    "telephone": "0631252247",
+	"image": "image.jpg",
+	"date": "2018 06 30",
+	"items": [
+	  {
+		"name": "bruchetta et salade",
+		"price": 11.5,
+		"ingredients": ["salade","pain","tomate"],
+		"image": "bruchetta.PNG"
+	  }
+	  ,
+	  {
+		"name": "formule plat+dessert",
+		"price": 12.5,
+		"ingredients": [],
+		"image": "formule.PNG"
+	  }
+	]
+}
